@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   //create a base key and add the github pages URL here
-  base: zewais.github.io / cd - demo,
+  base: "/cd-demo",
 });

@@ -1,7 +1,7 @@
 {
   "name": "cd-demo",
   "private": true,
-  "homepage": "zewais.github.io/cd-demo",
+  "homepage": "http://zewais.github.io/cd-demo",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
